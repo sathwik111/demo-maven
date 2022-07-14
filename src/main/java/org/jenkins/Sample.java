@@ -6,7 +6,7 @@ public class Sample {
 	{
 		System.out.println("Hello from maven");
 		System.out.println("Hello from Jenkins");
-		
+		System.out.println("Hello from Jenkins");
 	}
 	
 	
